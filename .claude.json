@@ -1,0 +1,11 @@
+{
+  "privacy": {
+    "exclude": [
+      "**/.env",
+      "**/.env.*",
+      "**/.env*",
+      "**/secrets/**",
+      "**/*.private.*"
+    ]
+  }
+}
